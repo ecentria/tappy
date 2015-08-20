@@ -1,6 +1,6 @@
 {
   "name": "tappy-js",
-  "version": "0.1.3",
+  "version": "0.1.3a",
   "description": "A lightweight normalized tap event.",
   "main": "tappy.js",
   "scripts": {
